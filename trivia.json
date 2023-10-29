@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://www.infoplease.com/sites/default/files/i_infopls_com/images/mgermany.gif",
+    "funFact": "Germany consists of 16 federal states aka Bundesländer"
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/D-A-CH.svg/1200px-D-A-CH.svg.png",
+    "funFact": "German is also the official language in Austria and Liechtenstein and one of the official languages in Switzerland and Luxembourg"
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://www.tz.de/bilder/2010/06/16/806622/957463368-fussball-2010-1VUsZ3wUfe9.jpg",
+    "funFact": "The German football team has won 4 World Cups, making it the joint-second most successful nation in the tournament"
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://mademoisellein.de/wp-content/uploads/2019/07/garbagesystem-1.jpg",
+    "funFact": "Trash is separated in Germany: Yellow for metal and plastics, blue for paper and cardboard, Brown for biodegradable goods"
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://staudacherhof.de/wp-content/uploads/2021/08/zugspitze-2078078_1920_pano.jpg",
+    "funFact": "The highest peak in Germany is the Zugspitze in Bavaria which is 2,962 meters high"
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://previews.123rf.com/images/miroha/miroha1611/miroha161100006/66000531-assorted-german-sausages-grilled-in-a-steel-container-street-food-market.jpg",
+    "funFact": "Germany has 1000 varieties of Sausages"
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoRHCZmBo_Oj6Bms41c0THyy3NveDsPe6Iw&usqp=CAU",
+    "funFact": "There are over 300 different kinds of bread in Germany"
+  }
+]
